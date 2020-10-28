@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Написать письмо Джону",
-    "completed": false
+    "completed": true
   },
   {
     "id": 1,
@@ -12,7 +12,7 @@
   {
     "id": 1,
     "title": "Прочитать Паттерны проектирования",
-    "completed": false
+    "completed": true
   },
   {
     "id": 1,
